@@ -1,0 +1,14 @@
+wsimod
+salib
+pandas
+numpy
+pyyaml
+openai
+langchain
+langchain-community
+langchain-openai
+langchain-chroma
+langchain-text-splitters
+chromadb
+pypdf
+joblib
